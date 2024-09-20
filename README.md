@@ -17,8 +17,8 @@ To get started with Travel-List, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/travel-list.git
-   cd travel-list
+   git clone [https://github.com/your-username/travel-list.git](https://github.com/shant0786/travel-list-urc23.git)
+   cd travel-list-urc23
    ```
 ````
 
@@ -64,7 +64,7 @@ We welcome contributions! If you'd like to contribute to Travel-List, please fol
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ```
 
